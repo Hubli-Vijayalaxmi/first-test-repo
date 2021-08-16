@@ -5,6 +5,7 @@ public class SalesClass {
 		System.out.println("Hello, I am from sales class");
 		System.out.println("Hello, how do you do?");
 		System.out.println("Hello all");
+		System.out.println("new line added from diff workspace");
 
 	}
 
